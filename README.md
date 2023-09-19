@@ -7,4 +7,4 @@ Effective communication is a cornerstone of my abilities, enabling me to articul
 
 My expertise in project management underscores my proficiency in problem-solving, allowing me to identify and resolve issues, ultimately driving positive outcomes.
 
-
+My skills include:  JavaScript, Node.JS, MangoDB, Python, Django, Postgres, Express.JS and React.
